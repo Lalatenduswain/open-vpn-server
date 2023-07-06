@@ -25,12 +25,16 @@ This script is an OpenVPN installer that supports various Linux distributions, i
    ```
    sudo ./install_openvpn.sh
    ```
+   Else
+   ```
+	wget https://raw.githubusercontent.com/Lalatenduswain/open-vpn-server/master/install_openvpn.sh -O install_openvpn.sh && bash install_openvpn.sh
+   ```
 
-5. Follow the on-screen instructions provided by the script.
+6. Follow the on-screen instructions provided by the script.
 
-6. Once the installation is complete, the script will generate a `client.ovpn` file for each client that you create. These files can be used to configure OpenVPN clients for connecting to the server.
+7. Once the installation is complete, the script will generate a `client.ovpn` file for each client that you create. These files can be used to configure OpenVPN clients for connecting to the server.
 
-7. Share the `client.ovpn` files with your clients, along with instructions on how to configure their OpenVPN clients using the generated file.
+8. Share the `client.ovpn` files with your clients, along with instructions on how to configure their OpenVPN clients using the generated file.
 
 ## Notes
 
