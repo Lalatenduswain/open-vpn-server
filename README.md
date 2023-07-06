@@ -47,6 +47,10 @@ This script is an OpenVPN installer that supports various Linux distributions, i
 - The script sets up iptables rules for network traffic forwarding and enables IP forwarding on the server.
 - Once the installation is complete, the script provides instructions for creating client certificates and generating the `client.ovpn` files.
 
+### Donations
+
+If you want to show your appreciation, you can donate via [BuymeaCoffee](https://www.buymeacoffee.com/lalatendu.swain)
+
 ## Disclaimer
 
 This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
